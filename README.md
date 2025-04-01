@@ -10,23 +10,23 @@ Développeuse full-stack junior, passionnée par la qualité du code, l’effica
 
 ## 🚀 Projets mis en avant
 
-### 🔊 [PDF & Audio Synchronizer](https://github.com/ton-pseudo/Pdf-Audio-Synchronizer)  
+### 🔊 [PDF & Audio Synchronizer](https://github.com/CamilleNerriere/Pdf-Audio-Synchronizer)  
 Synchronisation intelligente entre un enregistrement audio et un fichier PDF, avec transcription automatique, alignement texte-voix et visualisation ligne par ligne.
 
 > Python · FastAPI · Vosk · PyMuPDF · Tkinter  
-📺 [Voir la démo]([https://youtu.be/TON-LIEN](https://www.youtube.com/watch?v=N4dsNjVjd44))
+📺 [Voir la démo](https://www.youtube.com/watch?v=N4dsNjVjd44)
 
 ---
 
-### 💰 [PennyPal](https://github.com/ton-pseudo/PennyPal)  
-Application de gestion budgétaire simple et rapide, conçue pour s'entraîner à la stack .NET. (En cours)
+### 💰 [PennyPal](https://github.com/CamilleNerriere/PennyPalAPI)  
+Application de gestion budgétaire simple et rapide, conçue pour s'entraîner à la stack .NET. *(En cours)*
 
-> C#/.NET · Entity Framework · SQL Server · React ·  
-🌐 [Voir le Repo]([https://ton-portfolio.com/pennypal](https://github.com/CamilleNerriere/PennyPalAPI))
+> C#/.NET · Entity Framework · SQL Server · React  
+🌐 [Voir le repo](https://github.com/CamilleNerriere/PennyPalAPI)
 
 ---
 
-### 🐾 [PetFosterConnect](https://github.com/ton-pseudo/PetFosterConnect)  
+### 🐾 [PetFosterConnect](https://github.com/CamilleNerriere/PetFosterConnect)  
 Projet de fin d'études développé en équipe à O’clock. Plateforme de mise en relation entre associations de protection animale et familles d’accueil.
 
 > React · Express.js · PostgreSQL · Sequelize · Bootstrap
@@ -36,7 +36,7 @@ Projet de fin d'études développé en équipe à O’clock. Plateforme de mise 
 - Développement du tableau de bord côté association
 - Prototypage Figma et définition de l’identité visuelle
 - Rédaction du cahier des charges et modélisation de la base de données  
-📺 [Voir la démo]([https://demo-petfoster.com](https://youtu.be/bf4QWnOiBJs)) · 🌐 [Voir le site]([https://petfosterconnect.com)](https://petfosterconnect.onrender.com/)
+📺 [Voir la démo](https://youtu.be/bf4QWnOiBJs) · 🌐 [Voir le site](https://petfosterconnect.onrender.com/)
 
 ---
 
@@ -48,11 +48,10 @@ Je suis ouverte à de nouvelles opportunités en développement web, en particul
 
 ## 📬 Me contacter
 
-📧 camille.nerriere@proton.me 
-💼 [LinkedIn]([https://www.linkedin.com/in/ton-profil](https://www.linkedin.com/in/camillenerriere/))  
+📧 camille.nerriere@proton.me  
+💼 [LinkedIn](https://www.linkedin.com/in/camillenerriere/)  
 🌐 [Portfolio](https://camillenerriere.github.io/about/)
 
----
 
 # Hello, I'm Camille 👋
 
@@ -107,9 +106,4 @@ I'm open to new opportunities in web development, especially in education, cultu
 📧 camille.nerriere@proton.me  
 💼 [LinkedIn](https://www.linkedin.com/in/camillenerriere/)  
 🌐 [Portfolio](https://camillenerriere.github.io/about/)
-
----
-
-
-
 
