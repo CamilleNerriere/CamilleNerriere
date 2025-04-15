@@ -22,7 +22,7 @@ Synchronisation intelligente entre un enregistrement audio et un fichier PDF, av
 Application de gestion budgétaire simple et rapide, conçue pour s'entraîner à la stack .NET. *(En cours)*
 
 > C#/.NET · Entity Framework · SQL Server · React  
- [Voir le repo](https://github.com/CamilleNerriere/PennyPalAPI)
+[Voir le site](https://www.pennypal.dev)
 
 ---
 
@@ -77,7 +77,7 @@ Smart synchronization between an audio recording and a PDF document, with automa
 A simple and fast budgeting app, built to practice and reinforce my skills in the .NET stack. *(Work in progress)*
 
 > C#/.NET · Entity Framework · SQL Server · React  
-[View the repo](https://github.com/CamilleNerriere/PennyPalAPI)
+[View the website](https://www.pennypal.dev)
 
 ---
 
