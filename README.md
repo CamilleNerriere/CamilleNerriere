@@ -19,7 +19,7 @@ Synchronisation intelligente entre un enregistrement audio et un fichier PDF, av
 ---
 
 ###  [PennyPal](https://github.com/CamilleNerriere/PennyPalAPI)  
-Application de gestion budgétaire simple et rapide, conçue pour s'entraîner à la stack .NET. *(En cours)*
+Application de gestion budgétaire simple et rapide. 
 
 > C#/.NET · Entity Framework · SQL Server · React  
 [Voir le site](https://www.pennypal.dev)
