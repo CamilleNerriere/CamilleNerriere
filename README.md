@@ -10,7 +10,7 @@ Stack principale : **C#/.NET**, **React**, **Express**, **Python**, **Docker**, 
 
 ## Projets mis en avant
 
-###  [PDF & Audio Synchronizer](https://github.com/CamilleNerriere/Pdf-Audio-Synchronizer)  
+###  [PDF & Audio Synchronizer](https://github.com/CamilleNerriere/Pdf_Audio_Synchronizer)  
 Synchronisation intelligente entre un enregistrement audio et un fichier PDF, avec transcription automatique, alignement texte-voix et visualisation ligne par ligne.
 
 > Python · FastAPI · Vosk · PyMuPDF · Tkinter  
@@ -65,7 +65,7 @@ Main stack: **C#/.NET**, **React**, **Express**, **Python**, **Docker**, **SQL**
 
 ## Featured Projects
 
-###  [PDF & Audio Synchronizer](https://github.com/CamilleNerriere/Pdf-Audio-Synchronizer)  
+###  [PDF & Audio Synchronizer](https://github.com/CamilleNerriere/Pdf_Audio_Synchronizer)  
 Smart synchronization between an audio recording and a PDF document, with automatic transcription, voice-text alignment, and visual playback.
 
 > Python · FastAPI · Vosk · PyMuPDF · Tkinter  
@@ -73,7 +73,7 @@ Smart synchronization between an audio recording and a PDF document, with automa
 
 ---
 
-###  [PennyPal](https://github.com/CamilleNerriere/PennyPalAPI)  
+###  [PennyPal](https://github.com/CamilleNerriere/PennyPal)  
 A simple and fast budgeting app, built to practice and reinforce my skills in the .NET stack. *(Work in progress)*
 
 > C#/.NET · Entity Framework · SQL Server · React  
