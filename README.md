@@ -26,7 +26,7 @@ Application de gestion budgétaire simple et rapide.
 
 ---
 
-###  [PetFosterConnect](https://github.com/CamilleNerriere/PetFosterConnect)  
+###  PetFosterConnect - [Back](https://github.com/CamilleNerriere/PetFosterConnect-Back) / [Front](https://github.com/CamilleNerriere/PetFosterConnect-Front)
 Projet de fin d'études développé en équipe à O’clock. Plateforme de mise en relation entre associations de protection animale et familles d’accueil.
 
 > React · Express.js · PostgreSQL · Sequelize · Bootstrap
