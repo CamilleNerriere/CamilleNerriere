@@ -81,7 +81,7 @@ A simple and fast budgeting app, built to practice and reinforce my skills in th
 
 ---
 
-### [PetFosterConnect](https://github.com/CamilleNerriere/PetFosterConnect)  
+###  PetFosterConnect - [Back](https://github.com/CamilleNerriere/PetFosterConnect-Back) / [Front](https://github.com/CamilleNerriere/PetFosterConnect-Front)  
 Final team project developed at O’clock: a platform connecting animal shelters with foster families.
 
 > React · Express.js · PostgreSQL · Sequelize · Bootstrap
