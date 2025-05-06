@@ -4,7 +4,7 @@ Développeuse full-stack junior, passionnée par la qualité du code, l’effica
 
 Ancienne chercheuse en philosophie de la logique et des sciences, je me suis reconvertie dans le développement web avec un fort intérêt pour les projets techniques et utiles.
 
-Stack principale : **C#/.NET**, **React**, **Express**, **Python**, **Docker**, **SQL**
+Stack principale :**Java**, **Python**, **C#/.NET**, **React**, **Express**, **Docker**, **SQL**
 
 ---
 
@@ -59,7 +59,7 @@ I'm a junior full-stack developer passionate about code quality, software effici
 
 I hold a PhD in philosophy of logic and science and have transitioned into web development with a strong interest in technical, meaningful projects.
 
-Main stack: **C#/.NET**, **React**, **Express**, **Python**, **Docker**, **SQL**
+Main stack: **Java**, **Python**, **C#/.NET**, **React**, **Express**, **Docker**, **SQL**
 
 ---
 
