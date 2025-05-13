@@ -48,7 +48,7 @@ Final team project developed at O’clock: a platform connecting animal shelters
 - Dashboard development for shelter users
 - Figma prototyping and visual identity design
 - Technical documentation and database modeling  
-  [Watch the demo](https://youtu.be/bf4QWnOiBJs) · 🌐 [Visit the site](https://petfosterconnect.onrender.com/)
+  [Watch the demo](https://youtu.be/bf4QWnOiBJs) · 🌐 [Visit the site](https://petfoster.claramauro.fr/)
 
 ---
 
