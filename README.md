@@ -3,7 +3,7 @@
 
 I'm a junior full-stack back-end oriented developer passionate about code quality, software efficiency, and lifelong learning.
 
-I hold a PhD in philosophy of logic and science and have transitioned into web development with a strong interest in technical, meaningful projects.
+I hold a PhD in philosophy of logic and science and have transitioned into development with a strong interest in technical, meaningful projects.
 
 Main stack: **Java**, **Python**, **C#/.NET**, **React**, **Express**, **Docker**, **SQL**
 
