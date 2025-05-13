@@ -54,7 +54,7 @@ Final team project developed at O’clock: a platform connecting animal shelters
 
 ## 🤝 What I'm looking for
 
-I'm open to new opportunities in web development, especially in education, culture, civic tech, or any field where software makes a real impact.
+I'm open to new opportunities in development, especially in education, culture, civic tech, or any field where software makes a real impact.
 
 ---
 
