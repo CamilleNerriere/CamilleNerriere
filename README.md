@@ -1,61 +1,7 @@
-# Bonjour, je suis Camille 👋
-
-Développeuse full-stack junior, passionnée par la qualité du code, l’efficacité logicielle et l’apprentissage constant.
-
-Ancienne chercheuse en philosophie de la logique et des sciences, je me suis reconvertie dans le développement web avec un fort intérêt pour les projets techniques et utiles.
-
-Stack principale :**Java**, **Python**, **C#/.NET**, **React**, **Express**, **Docker**, **SQL**
-
----
-
-## Projets mis en avant
-
-###  [PDF & Audio Synchronizer](https://github.com/CamilleNerriere/Pdf_Audio_Synchronizer)  
-Synchronisation intelligente entre un enregistrement audio et un fichier PDF, avec transcription automatique, alignement texte-voix et visualisation ligne par ligne.
-
-> Python · FastAPI · Vosk · PyMuPDF · Tkinter  
- [Voir la démo](https://www.youtube.com/watch?v=N4dsNjVjd44)
-
----
-
-###  [PennyPal](https://github.com/CamilleNerriere/PennyPal)  
-Application de gestion budgétaire simple et rapide. 
-
-> C#/.NET · Entity Framework · SQL Server · React  
-[Voir le site](https://www.pennypal.dev)
-
----
-
-###  PetFosterConnect - [Back](https://github.com/CamilleNerriere/PetFosterConnect-Back) / [Front](https://github.com/CamilleNerriere/PetFosterConnect-Front)
-Projet de fin d'études développé en équipe à O’clock. Plateforme de mise en relation entre associations de protection animale et familles d’accueil.
-
-> React · Express.js · PostgreSQL · Sequelize · Bootstrap
-
-**Mes contributions :**
-- Conception de l’architecture backend et validation des données
-- Développement du tableau de bord côté association
-- Prototypage Figma et définition de l’identité visuelle
-- Rédaction du cahier des charges et modélisation de la base de données  
-   [Voir la démo](https://youtu.be/bf4QWnOiBJs) · 🌐 [Voir le site](https://petfosterconnect.onrender.com/)
-
----
-
-##  Ce que je recherche
-
-Je suis ouverte à de nouvelles opportunités en développement web, en particulier dans l'éducation, la culture, la tech publique ou tout domaine avec un impact réel.
-
----
-
-## 📬 Me contacter
-
-📧 camille.nerriere@proton.me  
-💼 [LinkedIn](https://www.linkedin.com/in/camillenerriere/)  
-🌐 [Portfolio](https://camillenerriere.github.io/about/)
-
 
 # Hello, I'm Camille 👋
 
-I'm a junior full-stack developer passionate about code quality, software efficiency, and lifelong learning.
+I'm a junior full-stack back-end oriented developer passionate about code quality, software efficiency, and lifelong learning.
 
 I hold a PhD in philosophy of logic and science and have transitioned into web development with a strong interest in technical, meaningful projects.
 
@@ -64,6 +10,16 @@ Main stack: **Java**, **Python**, **C#/.NET**, **React**, **Express**, **Docker*
 ---
 
 ## Featured Projects
+
+###  [Citation Extractir](https://github.com/CamilleNerriere/citation-extractor)
+Fine-grained academic citation extractor for PDF documents, with export to PDF and plain text.
+
+This tool performs deep analysis of the document layout and adapts its extraction strategy depending on the citation format. It supports traditional quote styles and Harvard-style references (and soon bloc quote), switching between character-level and line-based analysis to ensure accurate extraction. The extractor leverages typographic and positional cues to detect inline quotes, footnotes, and multi-page citations.
+
+> Java · PDFBox
+ [Latest Release](https://github.com/CamilleNerriere/citation-extractor/releases/tag/v1.0.1)
+
+---
 
 ###  [PDF & Audio Synchronizer](https://github.com/CamilleNerriere/Pdf_Audio_Synchronizer)  
 Smart synchronization between an audio recording and a PDF document, with automatic transcription, voice-text alignment, and visual playback.
