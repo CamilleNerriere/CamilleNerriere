@@ -11,7 +11,7 @@ Main stack: **Java**, **Python**, **C#/.NET**, **React**, **Express**, **Docker*
 
 ## Featured Projects
 
-###  [Citation Extractir](https://github.com/CamilleNerriere/citation-extractor)
+###  [Citation Extractor](https://github.com/CamilleNerriere/citation-extractor)
 Fine-grained academic citation extractor for PDF documents, with export to PDF and plain text.
 
 This tool performs deep analysis of the document layout and adapts its extraction strategy depending on the citation format. It supports traditional quote styles and Harvard-style references (and soon bloc quote), switching between character-level and line-based analysis to ensure accurate extraction. The extractor leverages typographic and positional cues to detect inline quotes, footnotes, and multi-page citations.
