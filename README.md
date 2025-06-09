@@ -11,7 +11,7 @@ Main stack: **Java**, ** JavaScript**, **TypeScript**, **Python**
 
 ## Featured Projects
 
-### PDF Extractor Tools - [Back]((https://github.com/CamilleNerriere/pdf-extractor-tools)) / [Front](https://github.com/CamilleNerriere/pdf-extractor-tools-front)
+### PDF Extractor Tools - [Back](https://github.com/CamilleNerriere/pdf-extractor-tools) / [Front](https://github.com/CamilleNerriere/pdf-extractor-tools-front)
 A modular tool for extracting structured content from PDF files — including academic citations and user annotations — with export to PDF, DOCX and TXT formats.
 
 This project performs precise layout and character-level analysis (Unicode, typographic, positional data) to reconstruct complex citation structures and match them to footnotes. It uses PDFBox native annotation detection to handle annotations. It includes a JWT-secured backend (Java Spring Boot) and a lightweight Angular frontend.
