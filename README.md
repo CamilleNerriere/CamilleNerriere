@@ -1,24 +1,24 @@
 
 # Hello, I'm Camille 👋
 
-I'm a junior full-stack back-end oriented developer passionate about code quality, software efficiency, and lifelong learning.
+I'm a junior full-stack back-end oriented developer passionate about creating useful tools that improve everyday life. 
 
-I hold a PhD in philosophy of logic and science and have transitioned into development with a strong interest in technical, meaningful projects.
+I hold a PhD in philosophy of logic and science and have transitioned into development with a strong interest in meaningful and technical projects.
 
-Main stack: **Java**, **Python**, **C#/.NET**, **React**, **Express**, **Docker**, **SQL**
+Main stack: **Java**, ** JavaScript**, **TypeScript**, **Python**
 
 ---
 
 ## Featured Projects
 
-###  [Citation Extractor](https://github.com/CamilleNerriere/citation-extractor)
-Fine-grained academic citation extractor for PDF documents, with export to PDF and plain text.
+### PDF Extractor Tools - [Back]((https://github.com/CamilleNerriere/pdf-extractor-tools)) / [Front](https://github.com/CamilleNerriere/pdf-extractor-tools-front)
+A modular tool for extracting structured content from PDF files — including academic citations and user annotations — with export to PDF, DOCX and TXT formats.
 
-This tool performs deep analysis of the document layout and adapts its extraction strategy depending on the citation format. It supports traditional quote styles and Harvard-style references (and soon bloc quote), switching between character-level and line-based analysis to ensure accurate extraction. The extractor leverages typographic and positional cues to detect inline quotes, footnotes, and multi-page citations.
+This project performs precise layout and character-level analysis (Unicode, typographic, positional data) to reconstruct complex citation structures and match them to footnotes. It uses PDFBox native annotation detection to handle annotations. It includes a JWT-secured backend (Java Spring Boot) and a lightweight Angular frontend.
 
-> Java · PDFBox
+It is still in development and you can find a demo [here](https://noesis-pdf-tools.vercel.app/)
 
- [Latest Release](https://github.com/CamilleNerriere/citation-extractor/releases/tag/v1.0.1)
+> Java · Spring Boot · Angular · PDFBox · Apache POI · H2/PostgreSQL
 
 ---
 
@@ -27,14 +27,6 @@ Smart synchronization between an audio recording and a PDF document, with automa
 
 > Python · FastAPI · Vosk · PyMuPDF · Tkinter  
  [Watch the demo](https://www.youtube.com/watch?v=N4dsNjVjd44)
-
----
-
-###  [PennyPal](https://github.com/CamilleNerriere/PennyPal)  
-A simple and fast budgeting app, built to practice and reinforce my skills in the .NET stack. *(Work in progress)*
-
-> C#/.NET · Entity Framework · SQL Server · React  
-[View the website](https://www.pennypal.dev)
 
 ---
 
