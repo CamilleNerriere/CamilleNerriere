@@ -5,7 +5,7 @@ I'm a junior full-stack back-end oriented developer passionate about creating us
 
 I hold a PhD in philosophy of logic and science and have transitioned into development with a strong interest in meaningful and technical projects.
 
-Main stack: **Java**, ** JavaScript**, **TypeScript**, **Python**
+Main stack: **Java**, **JavaScript**, **TypeScript**, **Python**
 
 ---
 
